@@ -81,13 +81,6 @@ Solution is complete in itself
 
 All the requirement given in assignment are satisfied
 
-## Scope of improvements
-Pagination and sorting can be implemented
-
-For too many fields to query from, a generic query builder can be created to cover any/all fields
-
-Solution can be containerized with other databases like mysql, postgres, Oracle etc
-
 ### Example Request for search
 {
 "veg": true,
@@ -100,5 +93,13 @@ Solution can be containerized with other databases like mysql, postgres, Oracle 
 "filter": "INCLUDE"
 }
 }
+
+## Scope of improvements
+Pagination and sorting can be implemented
+
+For too many fields to query from, a generic query builder can be created to cover any/all fields
+
+Solution can be containerized with other databases like mysql, postgres, Oracle etc
+
 ### Help
 Solution should build and run as expected. In case of any difficulties please reach out to me at avindiit@gmail.com
